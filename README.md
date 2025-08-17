@@ -12,7 +12,7 @@ Congratulations you found the first one!
 - :bow_and_arrow: Blockchain explorer
 - :fire: NFT Collector
 - :star2: Buy low Sell high
-- :tools: Dont be exit liquidity
+- :x:  Dont be exit liquidity
 - :warning: Stay Safu
 - :blossom: Farming Defi 
 

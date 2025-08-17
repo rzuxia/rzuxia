@@ -1,3 +1,12 @@
-<h1 align="center">
-  Hii, Welcome to <span style="color:#ff79c6;">Alicia profile</span>
-</h1>
+const Alicia = {
+    pronouns: "She" | "Her",
+    askMeAbout: ["Crypto", "Defi", "NFT"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
+    }
+};
